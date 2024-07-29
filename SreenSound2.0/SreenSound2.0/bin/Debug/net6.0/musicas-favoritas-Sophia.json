@@ -1,0 +1,35 @@
+{
+  "nome": "Sophia",
+  "musicas": [
+    {
+      "song": "#SELFIE - Original Mix",
+      "artist": "The Chainsmokers",
+      "duration_ms": 183750,
+      "genre": "pop, Dance/Electronic"
+    },
+    {
+      "song": "#thatPOWER",
+      "artist": "will.i.am",
+      "duration_ms": 279506,
+      "genre": "hip hop, pop"
+    },
+    {
+      "song": "\u0027Till I Collapse",
+      "artist": "Eminem",
+      "duration_ms": 297786,
+      "genre": "hip hop"
+    },
+    {
+      "song": "(When You Gonna) Give It Up to Me (feat. Keyshia Cole) - Radio Version",
+      "artist": "Sean Paul",
+      "duration_ms": 243880,
+      "genre": "hip hop, pop"
+    },
+    {
+      "song": "...Ready For It?",
+      "artist": "Taylor Swift",
+      "duration_ms": 208186,
+      "genre": "pop"
+    }
+  ]
+}
